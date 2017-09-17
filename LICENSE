@@ -1,0 +1,35 @@
+LICENSE
+
+
+Created:        2017-09-17
+Author:         Eddie Ma
+E-mail:         ema@uoguelph.ca
+
+
+All data collected in the following files were queried via public access from Barcode of Life Datasystems (boldsystems.org).
+
+datasets-pid-lists/
+-- ch5-ch8-pids-2of2.txt
+-- ch5-ch8-pids-1of2.txt
+-- ch6-barcodegap-pids.txt
+-- ch7-alltaxa-pids.txt
+-- ch7-groupbytaxa-pids.txt
+
+datasets-pid-dataframes/
+-- ch5-ch8-trees-pid-dataframe.tsv
+-- ch6-barcodegap-pid-dataframe.tsv
+-- ch6-barcodegap-pid-dataframe.xlsx
+-- ch7-alltaxa-pid-dataframe.tsv
+-- ch7-alltaxa-pid-dataframe.xlsx
+-- ch7-groupbytaxa-pid-dataframe.tsv
+-- ch7-groupbytaxa-pid-dataframe.xlsx
+
+
+This data was queried from boldsystems.org in 2016 December.
+
+This data is selected from public records in The Canadian National Parks Malaise Project (CNPM).
+For more on CNPM, see -- http://biodiversitygenomics.net/projects/cnp/
+
+I assume no ownership of this data, and I've provided it here as a convenience for replicability of my research.
+
+For additional licensing details, please see boldsystems.org .
