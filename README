@@ -20,15 +20,20 @@ I assume no ownership of this data, and I've provided it here as a convenience f
 
 ##### Repository Contents #####
 
-datasets-pid-lists/                     -- these files are lists of Process IDs used to query BOLD Systems (boldsystems.org)
--- ch5-ch8-pids-2of2.txt                -- dataset for Chapter 5 (Impact Assessment Overview) and Chapter 8 (Phylogenetic Tree Building)
--- ch5-ch8-pids-1of2.txt                -- dataset for Chapter 5 (Impact Assessment Overview) and Chapter 8 (Phylogenetic Tree Building)
+datasets-pid-lists/                     -- these files are lists of Process IDs used
+                                            to query BOLD Systems (boldsystems.org)
+-- ch5-ch8-pids-2of2.txt                -- dataset for Chapter 5 (Impact Assessment Overview)
+                                            and Chapter 8 (Phylogenetic Tree Building)
+-- ch5-ch8-pids-1of2.txt                -- dataset for Chapter 5 (Impact Assessment Overview)
+                                            and Chapter 8 (Phylogenetic Tree Building)
 -- ch6-barcodegap-pids.txt              -- dataset for Chapter 6 (Barcode Gap)
 -- ch7-alltaxa-pids.txt                 -- dataset for Chapter 7 (Species Identification and Discovery)
 -- ch7-groupbytaxa-pids.txt             -- dataset for Chapter 7 (Species Identification and Discovery)
 
-datasets-pid-dataframes/                -- these files are tables of Process IDs and some additional accession or taxonomic information
--- ch5-ch8-trees-pid-dataframe.tsv      -- dataset for Chapter 5 (Impact Assessment Overview) and Chapter 8 (Phylogenetic Tree Building)
+datasets-pid-dataframes/                -- these files are tables of Process IDs and some additional
+                                            accession or taxonomic information
+-- ch5-ch8-trees-pid-dataframe.tsv      -- dataset for Chapter 5 (Impact Assessment Overview)
+                                            and Chapter 8 (Phylogenetic Tree Building)
 -- ch6-barcodegap-pid-dataframe.tsv     -- dataset for Chapter 6 (Barcode Gap)
 -- ch6-barcodegap-pid-dataframe.xlsx    -- dataset for Chapter 6 (Barcode Gap)
 -- ch7-alltaxa-pid-dataframe.tsv        -- dataset for Chapter 7 (Species Identification and Discovery)
